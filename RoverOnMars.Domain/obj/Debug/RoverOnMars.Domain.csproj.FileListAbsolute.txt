@@ -1,0 +1,6 @@
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Domain\bin\Debug\RoverOnMars.Domain.dll
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Domain\bin\Debug\RoverOnMars.Domain.pdb
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Domain\bin\Debug\Ensure.That.dll
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Domain\obj\Debug\RoverOnMars.Domain.dll
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Domain\obj\Debug\RoverOnMars.Domain.pdb
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Domain\obj\Debug\RoverOnMars.Domain.csprojResolveAssemblyReference.cache

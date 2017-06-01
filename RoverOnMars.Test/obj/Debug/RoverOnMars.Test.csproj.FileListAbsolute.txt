@@ -1,0 +1,17 @@
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Test\bin\Debug\RoverOnMars.Test.dll
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Test\bin\Debug\RoverOnMars.Test.pdb
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Test\bin\Debug\FluentAssertions.Core.dll
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Test\bin\Debug\FluentAssertions.dll
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Test\bin\Debug\nunit.framework.dll
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Test\bin\Debug\RoverOnMars.Domain.dll
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Test\bin\Debug\Ensure.That.dll
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Test\bin\Debug\RoverOnMars.Domain.pdb
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Test\bin\Debug\FluentAssertions.pdb
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Test\bin\Debug\FluentAssertions.xml
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Test\bin\Debug\FluentAssertions.Core.pdb
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Test\bin\Debug\FluentAssertions.Core.xml
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Test\bin\Debug\nunit.framework.xml
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Test\obj\Debug\RoverOnMars.Test.csprojResolveAssemblyReference.cache
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Test\obj\Debug\RoverOnMars.Test.dll
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Test\obj\Debug\RoverOnMars.Test.pdb

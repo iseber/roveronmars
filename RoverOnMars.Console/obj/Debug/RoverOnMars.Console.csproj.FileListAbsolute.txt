@@ -1,0 +1,9 @@
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Console\bin\Debug\RoverOnMars.Console.exe.config
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Console\bin\Debug\RoverOnMars.Console.exe
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Console\bin\Debug\RoverOnMars.Console.pdb
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Console\bin\Debug\RoverOnMars.Domain.dll
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Console\bin\Debug\Ensure.That.dll
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Console\bin\Debug\RoverOnMars.Domain.pdb
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Console\obj\Debug\RoverOnMars.Console.csprojResolveAssemblyReference.cache
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Console\obj\Debug\RoverOnMars.Console.exe
+D:\Workspace\Workspace.C#\C#.Repository\roveronmars\RoverOnMars\RoverOnMars.Console\obj\Debug\RoverOnMars.Console.pdb
